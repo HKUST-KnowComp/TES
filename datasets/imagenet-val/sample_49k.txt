@@ -1,0 +1,1 @@
+This is a dummpy example txt file. Please randomly sample 49k images from the ImageNet validation dataset, and put the image paths and labels in this file. Each line is structured as "image_file_path label". 

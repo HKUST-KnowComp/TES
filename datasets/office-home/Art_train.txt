@@ -1,0 +1,1 @@
+This is a dummpy example txt file. Please put the image paths and image labels of the training set of the "Art" domain in this file. Each line is structured as "image_file_path label". 
